@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="welcome">Welcome to Handicraft’s Galaxy</string>
+    <string name="logan">Get your favourites at your doorstep</string>
+    <string name="get_started">Get Started</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="cart">Cart</string>
+    <string name="favourite">Favourite</string>
+    <string name="account">Account</string>
+    <string name="search_store">Search Store</string>
+    <string name="marriage_products">Marriage Products</string>
+    <string name="discount">Get Up To 40% OFF</string>
+    <string name="exclusive_offer">Exclusive Offer</string>
+    <string name="see_all">See All</string>
+    <string name="best_selling">Best Selling</string>
+    <string name="woolen_products">Woolen Products</string>
+    <string name="_1">1</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="review">Review</string>
+    <string name="favorite">Favorite</string>
+    <string name="find_products">Find Products</string>
+    <string name="my_cart">My Cart</string>
+    <string name="go_to_checkout">Go To Checkout</string>
+    <string name="log_out">Log Out</string>
+</resources>
